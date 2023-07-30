@@ -21,3 +21,9 @@ public class Amstrong {
         }
     }
 }
+//hi how are you? 
+//i am fine! do you know what? i am an alien. so, i will eat you now.
+//okay! fine by me! you can eat me. where are you going to start?
+//and i forgot to say something! before you taste me, can i taste you a bit?
+//what? hey!! who the heck are you?
+//i am just an innocent humanbeing! lol!
